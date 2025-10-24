@@ -19,17 +19,20 @@ The project follows a four-stage Big Data architecture:
 1. Landing Zone – ingestion of raw CSV and JSON files.  
 2. Formatting Zone – data standardization, cleaning, and normalization.  
 3. Exploitation Zone – aggregation and computation of KPIs for analysis.  
-4. Dashboarding – visualization of results through plots and interactive dashboards.  
+4. Dashboarding – visualization of results through plots and interactive dashboards.
 
 ---
 
 ## Repository Structure
 | File | Description |
 |------|--------------|
-| formatting_zone.ipynb | Data cleaning, transformation, and standardization |
-| exploitation_zone.ipynb | KPI computation and data aggregation |
-| Dashboarding.ipynb | Visualization and dashboard generation |
-| BIG_DATA_3.pdf | Final report including analysis, methods, and results |
+| landing_zone.zip | Raw data used in the project |
+| formatting_zone.ipynb | Data cleaning, formatting, and validation |
+| formatted_zone.zip | Cleaned and standardized datasets |
+| exploitation_zone.ipynb | Computation of KPIs and data aggregation |
+| exploitation_zone.zip | Processed datasets ready for analysis |
+| Dashboarding.ipynb | Visualization and dashboard creation |
+| Report.pdf | Final report with analysis and results |
 | README.md | Project documentation |
 
 ---
