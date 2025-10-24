@@ -43,21 +43,5 @@ Libraries: pandas, numpy, pyspark, matplotlib, seaborn, plotly
 Storage: Parquet files  
 Framework: Jupyter Notebooks  
 
----
-
-## How to Run
-1. Open the notebooks in Jupyter or VS Code.  
-2. Run them in order:
-   - formatting_zone.ipynb  
-   - exploitation_zone.ipynb  
-   - Dashboarding.ipynb  
-3. The final outputs include processed datasets and dashboards with KPIs.  
-
----
-
-## Authors
-Timothy Cassel  
-Iñigo Expósito  
-June 2025
 
 
